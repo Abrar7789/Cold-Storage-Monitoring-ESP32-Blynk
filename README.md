@@ -83,7 +83,7 @@ Cold-Storage-Monitoring-ESP32-Blynk/ │ ├── code/              # Arduino 
 
 - *Shaik Abrar Ali*
 - *k.Nanditha*
-- *ch.Abhilash*
+- *Ch.Abhilash*
 
 ---
 
