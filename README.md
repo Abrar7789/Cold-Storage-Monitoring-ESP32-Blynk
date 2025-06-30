@@ -56,10 +56,10 @@ Cold-Storage-Monitoring-ESP32-Blynk/ │ ├── code/              # Arduino 
 
 ## 📸 Output Screenshots
 
-![Block Diagram](images/Block_diagram.png)
-![ckt](images/Blynk_result.png)
-![monitoring_results](images/Circuit_diagram.jpg)
-![Hardware_output](images/Lcd_reading.jpg)
+![Block diagram](images/Block_diagram.png)
+![Blynk_result](images/Blynk_result.png)
+![Circuit_diagram](images/Circuit_diagram.jpg)
+![Lcd_reading](images/Lcd_reading.jpg)
 
 ---
 
