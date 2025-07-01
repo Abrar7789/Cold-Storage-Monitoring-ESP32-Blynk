@@ -6,7 +6,7 @@ This project is an intelligent IoT-based cold storage monitoring system. It ensu
 
 ## 🧱 Block Diagram
 
-![Block_diagram](images/block_diagram.PNG)
+![Block_diagram](images/Block_diagram.PNG)
 
 ### 📝 Block Diagram Explanation
 
@@ -23,7 +23,7 @@ Each component connects to designated GPIO pins on the ESP32 as shown in the blo
 
 ---
 
-## 🪛 Circuit Diagram
+## Circuit Diagram
 
 ![Circuit_diagram](images/Circuit_diagram.jpg)
 
@@ -94,7 +94,7 @@ The LCD updates every 2–3 seconds and provides a *local display*, even without
 
 ## 📱 Blynk App Dashboard
 
-![Blynk_result](images/blynk_result.PNG)
+![Blynk_result](images/Blynk_result.PNG)
 
 ### 📝 Blynk Explanation
 
@@ -111,8 +111,8 @@ The ESP32 pushes sensor values to Blynk using the Blynk library over Wi-Fi.
 
 For a detailed explanation of the project, please refer to the documentation:
 
-- Documentation Index: 📁 [/docs/documentaion_index.docx](docs/documentaion_index.docx)
-- Detailed Documentation: 📁 [/docs/documentaion.docx](docs/documentaion.docx)
+- Documentation Index: 📁 [/docs/documentaion_index.docx](docs/documentation_index.docx)
+- Detailed Documentation: 📁 [/docs/documentaion.docx](docs/documentation.docx)
 
 These documents provide a comprehensive overview of the project's architecture, functionality, and implementation details.
 
@@ -137,9 +137,9 @@ Use at your own risk. If you're planning to use this project in a production env
 
 ## 👥 Team Members
 
-- Shaik Abrar Ali
-- K.Nanditha
-- Ch.Abhilash
+- Shaik Abrar Ali (Abrar7789)
+- K.Nanditha (Nanditha-429)
+- Ch.Abhilash (ChamanthulaAbhilash)
 
 ---
 
